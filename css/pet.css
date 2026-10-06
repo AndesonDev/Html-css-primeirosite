@@ -1,0 +1,216 @@
+
+
+
+html body {
+  height: 100vh;
+}
+
+.logo{
+    display: flex;
+    gap: 50px;
+    background-color:green;
+    height:  45px;
+    font-size: 10px;
+    padding-left: 90px;
+    transform: translate(-8px,-8px);
+    width:  880px;
+    
+}
+
+.logo a{
+    color: white;
+    padding-top:15px;
+    text-decoration: none;
+}
+
+.logo span{
+    color: greenyellow;
+}
+
+.tema{
+    color: white;
+   transform: translate(-50px, -10px);
+
+}
+
+.imagem img{
+    width: 960px;
+    margin-left: -10px;
+    transform: translate(0,-10px);
+
+}
+
+.botao{
+     width: 150px;
+     transform: translate(40px,-80px);
+     color: green;
+     background-color: yellow;
+     border-radius: 10px;
+
+}
+
+
+.temaicone{
+    display: flex;
+    font-size: 5px;
+    gap: 100px;
+    margin-left: 50px;
+}
+
+.atendimento{
+    transform: translate(-20px);
+}
+
+.pagamento{
+     transform: translate(-25px);
+
+}
+
+.paragrafoicone{
+    font-size: 10px;
+    display: flex;
+    gap: 100px;
+    margin-left: 50px;
+    transform: translate(0,-15px);
+}
+
+
+.icone{
+     transform: translate(0,-25px);
+}
+.cachorromeio img{
+    margin-left: 30px;
+    width: 320px;
+    transform: translate(0,-20px);
+}
+
+.missao img {
+    transform: translate(350px,-178px);
+    height: 155px;
+    width: 500px;
+}
+
+.botao2{
+    width: 100px;
+     transform: translate(-50px,-190px);
+     color: green;
+     background-color: yellow;
+     border-radius: 10px;
+}
+
+.imagempenultima img{
+  width: 900px;
+  transform: translate(-40px,-150px);
+}
+
+
+
+.botao3{
+    width: 150px;
+    height: 30px;
+     transform: translate(20px,-280px);
+     color: green;
+     background-color: yellow;
+     border-radius: 10px;
+}
+
+
+.vendas{
+    transform: translate(0, -120px);
+    font-size: 4px;
+    margin-left: 80px;
+    
+
+}
+
+.item{
+    display: flex;
+    gap: 70px;
+}
+
+
+.titulovendas{
+transform: translate(50px,-180px);
+font-size: 15px;
+}
+
+
+.imagemvendas2  {
+    display: flex;
+    gap: 55px;
+    transform: translate(0,-180px);
+    margin-left: 20px;
+    
+}
+
+.imagemvendas2 img{
+     width: 60px;
+}
+
+.racao{
+    transform: translate(-40px);
+}
+
+.brinquedo{
+     transform: translate(-40px);
+
+}
+
+.cama{
+     transform: translate(-15px);
+}
+
+.coleira{
+    margin-left: 12px;
+
+}
+
+.shampoo{
+    margin-left: 20px;
+}
+
+.valor{
+    display: flex;
+    gap: 150px;
+    margin-left: 20px;
+    font-size: 7px;
+    transform: translate(50px,-175px);
+}
+
+.p2{
+    transform: translate(-35px);
+}
+
+.p3{
+   transform: translate(-65px);
+}
+
+.p4{
+     transform: translate(-95px);
+}
+
+.p5{
+    transform: translate(-130px);
+}
+
+.rodape{
+    transform:translate(0,-130px);
+    display: flex;
+    gap: 20px;
+    background-color: green;
+    height: 250px;
+    width: 1000px;
+    
+    
+}
+
+.rodape a {
+    transform: translate(0, 35px);
+    color: white;
+    text-decoration: none;
+}
+
+
+.titulorodape{
+    
+}
